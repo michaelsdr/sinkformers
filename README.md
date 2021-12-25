@@ -159,6 +159,6 @@ If you use this code in your project, please cite::
     Michael E. Sander, Pierre Ablin, Mathieu Blondel, Gabriel Peyré
     Sinkformers: Transformers with Doubly Stochastic Attention
     arXiv preprint arXiv:2110.11773, 2021
-    https://arxiv.org/abs/2102.07870
+    https://arxiv.org/abs/2110.11773
 
 
