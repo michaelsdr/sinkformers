@@ -1,4 +1,4 @@
-# Code to reproduce the AISTATS submission : "_Sinkformers:  Transformers with Doubly Stochastic Attention_"
+# Code for the paper : "_Sinkformers:  Transformers with Doubly Stochastic Attention_"
 
 
 
