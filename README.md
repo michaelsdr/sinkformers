@@ -1,6 +1,7 @@
 # Code for the paper : "_Sinkformers:  Transformers with Doubly Stochastic Attention_"
 
-
+## Paper
+You will find our paper [here](https://arxiv.org/abs/2110.11773).
 
 ## Compat
 
@@ -149,5 +150,15 @@ cd ..
 ```
 
 Especially, the argument "ps" is the patch size. Results are saved in the folder vit-pytorch/results_mnist. You can plot the learning curves using the script vit-pytorch/plot_results_mnist.py. The array _iterations_ in the script must contain the different values for "n_it" used when training. The array patches_size in the script must contain the different values for "ps" used when training.
+
+Cite
+----
+
+If you use this code in your project, please cite::
+
+    Michael E. Sander, Pierre Ablin, Mathieu Blondel, Gabriel Peyré
+    Sinkformers: Transformers with Doubly Stochastic Attention
+    arXiv preprint arXiv:2110.11773, 2021
+    https://arxiv.org/abs/2102.07870
 
 
